@@ -1,0 +1,22 @@
+{
+  "name": "retinopathy-analytics",
+  "version": "0.0.1",
+  "description": "front-end for diabetic retinopathy",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishpai1/RetinopathyAnalytics.git"
+  },
+  "author": "ashish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashishpai1/RetinopathyAnalytics/issues"
+  },
+  "homepage": "https://github.com/ashishpai1/RetinopathyAnalytics#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
