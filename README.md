@@ -10,3 +10,10 @@ vim .gitignore
 
 Add nodemodules: 
 /node_modules/*
+
+
+To run the project:
+- Download the project
+- npm install
+- npm install -g http-server
+- http-server
