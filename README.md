@@ -17,6 +17,11 @@ To run the project:
 - npm install
 - npm install -g http-server
 - http-server
+- Even better, use: npm install -g live-server 
+- live-server
+
+
+The advantage of using live-server is that, you can easily test for changes(It automatically publishes the changes made locally). Whereas when you use http-server, you need to start and stop the node. 
 
 
 >Project Plan :
