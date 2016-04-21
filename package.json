@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/ashishpai1/RetinopathyAnalytics#readme",
   "dependencies": {
+    "angular": "^1.5.5",
+    "angular-route": "^1.5.5",
     "bootstrap": "^3.3.6"
   }
 }
